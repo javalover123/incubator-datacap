@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://databap.incubator.edurt.io/index.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/index.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/index.html"/>
+         
+    </url>
+    <url>
+         <loc>https://databap.incubator.edurt.io/download.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/download.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/download.html"/>
+         
+    </url>
+    <url>
+         <loc>https://databap.incubator.edurt.io/blog/index.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/blog/index.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/blog/index.html"/>
+         
+    </url>
+    <url>
+         <loc>https://databap.incubator.edurt.io/blog/2022/09/12/spring-boothive-jdbc.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/blog/posts/springboot-hive-jdbc-v2.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/blog/posts/springboot-hive-jdbc-v2.html"/>
+         
+    </url>
+    <url>
+         <loc>https://databap.incubator.edurt.io/developer_guide/env.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/developer_guide/env.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/developer_guide/env.html"/>
+         
+    </url>
+    <url>
+         <loc>https://databap.incubator.edurt.io/developer_guide/plugin.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/developer_guide/plugin.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/developer_guide/plugin.html"/>
+         
+    </url>
+    <url>
+         <loc>https://databap.incubator.edurt.io/reference/admin/history.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/reference/admin/history.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/reference/admin/history.html"/>
+         
+    </url>
+    <url>
+         <loc>https://databap.incubator.edurt.io/reference/admin/source.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/reference/admin/source.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/reference/admin/source.html"/>
+         
+    </url>
+    <url>
+         <loc>https://databap.incubator.edurt.io/reference/get_started/install.html</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://databap.incubator.edurt.io/en/reference/get_started/install.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://databap.incubator.edurt.io/zh/reference/get_started/install.html"/>
+         
+    </url>
+</urlset>
